@@ -1,2 +1,2 @@
 #!/bin/bash
-printv $PATH
+PATH=/action:$PATH
