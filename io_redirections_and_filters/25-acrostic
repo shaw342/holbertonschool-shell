@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "ELIZABETH" >> 
+cut -d 'ELIZABETH ' -f1 file
