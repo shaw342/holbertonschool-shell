@@ -1,2 +1,2 @@
 #!/bin/bash
-bestchol=$(($STIR + $WATER)) | echo `$bestchol`
+$WATER | tr water 01234 | $((5#30012402303)) → 29419078 | tr stir. 01234 | echo $((5#12421231313)) → 15414583 | printf “%o” 44834284 → 253016754
